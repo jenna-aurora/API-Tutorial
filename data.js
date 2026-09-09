@@ -1,4 +1,4 @@
-[
+let pets = [
   { "name": "Abyssinian", "origin": "Ethiopia", "length": "12 to 16 inches", "playfulness": 5, "max_weight": 10 },
   { "name": "Siamese", "origin": "Thailand", "length": "15 to 20 inches", "playfulness": 5, "max_weight": 12 },
   { "name": "Maine Coon", "origin": "United States", "length": "30 to 40 inches", "playfulness": 3, "max_weight": 25 },
@@ -8,7 +8,7 @@
   { "name": "British Shorthair", "origin": "United Kingdom", "length": "22 to 25 inches", "playfulness": 2, "max_weight": 18 },
   { "name": "Bengal", "origin": "United States", "length": "14 to 18 inches", "playfulness": 5, "max_weight": 15 },
   { "name": "Scottish Fold", "origin": "Scotland", "length": "10 to 12 inches", "playfulness": 3, "max_weight": 13 },
-  { "name": "Russian Blue", "origin": "Russia", "length": "15 to 18 inches", "playfulness": 3, "max_weight": 12 }
+  { "name": "Russian Blue", "origin": "Russia", "length": "15 to 18 inches", "playfulness": 3, "max_weight": 12 },
   { "name": "Aegean", "origin": "Greece", "length": "Medium", "playfulness": 4, "max_weight": 10,
 }
-]
+];
